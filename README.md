@@ -6,13 +6,13 @@ The toolkit combines multiple analysis methods, including Least Significant Bit 
 
 ## Features
 
-- 🔍 **LSB Analysis** — Examines the distribution of least significant bits in image pixels.
-- 📊 **Chi-Square Analysis** — Compares paired pixel-value frequencies across RGB channels.
-- 📐 **DCT Analysis** — Examines 8×8 image blocks in the frequency domain.
-- 📈 **Image Statistics** — Calculates pixel mean, standard deviation, and entropy.
-- 🧠 **Automated Summary** — Combines observations from the different analysis modules.
-- 📄 **Analysis Report** — Generates a downloadable text report containing the analysis results.
-- 🖥️ **Streamlit Interface** — Provides an interactive web interface for uploading and analyzing images.
+-  **LSB Analysis** — Examines the distribution of least significant bits in image pixels.
+-  **Chi-Square Analysis** — Compares paired pixel-value frequencies across RGB channels.
+-  **DCT Analysis** — Examines 8×8 image blocks in the frequency domain.
+-  **Image Statistics** — Calculates pixel mean, standard deviation, and entropy.
+-  **Automated Summary** — Combines observations from the different analysis modules.
+-  **Analysis Report** — Generates a downloadable text report containing the analysis results.
+-  **Streamlit Interface** — Provides an interactive web interface for uploading and analyzing images.
 
 ## How It Works
 
